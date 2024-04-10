@@ -1,0 +1,31 @@
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienDoanhThu.resources
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienQuanLy.resources
+D:\Đề án C#\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienQuanLyKhachHangChoNhanVien.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangNhap.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\DoAn.DienThongTin.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\DoAn.GiaoDienAD.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienDoanhThu.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienQuanLy.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GiaoDienQuanLyKhachHangChoNhanVien.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\DoAn.NhanVien.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\DoAn.QuanLyNCC.resources
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\test\DoAn\Dang nhap\WindowsFormsApp1\obj\Debug\DoAn.QuanLyNhanVien.resources
